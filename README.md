@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Nah**
 
-- 📫 How to reach me **thodeveloper@gmail.com**
+- 📫 How to reach me **tuantho.work@gmail.com**
 
 - ⚡ Fun fact **I'm the clown king **
 <h3 align="left">Connect with me:</h3>
