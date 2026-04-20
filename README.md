@@ -30,6 +30,7 @@
   <a href="https://twitter.com/your-handle" target="_blank">Twitter</a>
   -->
 </p>
+<br clear="both" />
 <h3 align="left">Languages and Tools</h3>
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
